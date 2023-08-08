@@ -1,5 +1,3 @@
-![Luana Cajaiba](https://baoba.org.br/wp-content/uploads/2017/09/mulheres-negras-e-tecnologia.png)
-
 <h2>Hey there! I'm Luana Cajaiba</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Luana Cajaiba -->
